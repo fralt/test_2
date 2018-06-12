@@ -1,0 +1,22 @@
+C:\Users\PbIrok\Documents\Visual Studio 2017\Projects\Skills\Skills\bin\Debug\netcoreapp2.0\Skills.deps.json
+C:\Users\PbIrok\Documents\Visual Studio 2017\Projects\Skills\Skills\bin\Debug\netcoreapp2.0\Skills.runtimeconfig.json
+C:\Users\PbIrok\Documents\Visual Studio 2017\Projects\Skills\Skills\bin\Debug\netcoreapp2.0\Skills.runtimeconfig.dev.json
+C:\Users\PbIrok\Documents\Visual Studio 2017\Projects\Skills\Skills\bin\Debug\netcoreapp2.0\Skills.dll
+C:\Users\PbIrok\Documents\Visual Studio 2017\Projects\Skills\Skills\obj\Debug\netcoreapp2.0\Skills.csprojResolveAssemblyReference.cache
+C:\Users\PbIrok\Documents\Visual Studio 2017\Projects\Skills\Skills\obj\Debug\netcoreapp2.0\Skills.csproj.CoreCompileInputs.cache
+C:\Users\PbIrok\Documents\Visual Studio 2017\Projects\Skills\Skills\obj\Debug\netcoreapp2.0\Skills.AssemblyInfoInputs.cache
+C:\Users\PbIrok\Documents\Visual Studio 2017\Projects\Skills\Skills\obj\Debug\netcoreapp2.0\Skills.AssemblyInfo.cs
+C:\Users\PbIrok\Documents\Visual Studio 2017\Projects\Skills\Skills\bin\Debug\netcoreapp2.0\Skills.pdb
+C:\Users\PbIrok\Documents\Visual Studio 2017\Projects\Skills\Skills\obj\Debug\netcoreapp2.0\Skills.dll
+C:\Users\PbIrok\Documents\Visual Studio 2017\Projects\Skills\Skills\obj\Debug\netcoreapp2.0\Skills.pdb
+C:\Users\fralt\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Skills\Skills\Skills\obj\Debug\netcoreapp2.0\Skills.csproj.CoreCompileInputs.cache
+C:\Users\fralt\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Skills\Skills\Skills\obj\Debug\netcoreapp2.0\Skills.AssemblyInfoInputs.cache
+C:\Users\fralt\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Skills\Skills\Skills\obj\Debug\netcoreapp2.0\Skills.AssemblyInfo.cs
+C:\Users\fralt\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Skills\Skills\Skills\obj\Debug\netcoreapp2.0\Skills.csprojResolveAssemblyReference.cache
+C:\Users\fralt\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Skills\Skills\Skills\bin\Debug\netcoreapp2.0\Skills.deps.json
+C:\Users\fralt\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Skills\Skills\Skills\bin\Debug\netcoreapp2.0\Skills.runtimeconfig.json
+C:\Users\fralt\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Skills\Skills\Skills\bin\Debug\netcoreapp2.0\Skills.runtimeconfig.dev.json
+C:\Users\fralt\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Skills\Skills\Skills\bin\Debug\netcoreapp2.0\Skills.dll
+C:\Users\fralt\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Skills\Skills\Skills\bin\Debug\netcoreapp2.0\Skills.pdb
+C:\Users\fralt\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Skills\Skills\Skills\obj\Debug\netcoreapp2.0\Skills.dll
+C:\Users\fralt\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Skills\Skills\Skills\obj\Debug\netcoreapp2.0\Skills.pdb
